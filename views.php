@@ -328,24 +328,7 @@
 	</div>
 	</div>
 </section>
-<section class="" style="width:100%; height: 700px;">
-	<img src="<?php echo base_url() ?>assets/images/contact1.png" width="40%" style="margin-left: 95px; margin-top:20px;">
-	<div class="" style="margin-top: -480px; margin-left: 50%; width:45%; font-family:poppins;">
-		<p style="color: blue;">CONTACT US</p>
-		<h3><b>Computer Security Incident <br>Response Team</b></h3>
-		<br><br>
-		<p style="color: #656565;">ADDRESS</p><br>
-		<h4><b>PT.Industri Telekomunikasi</b></h4>
-		<button type="submit" class="btn btn-labeled" style="background-color: white; color:#FDC886; font-family: poppins; margin-left:70%; margin-top:-65px;">
-			<a href="<?php echo base_url('Content/profil') ?>" class="href" style="color:#FDC886;"> Profile Details</a> <span class="btn-label"><i class="fa fa-chevron-right"></i></span></button>
-		<p style="color: #656565;">Jalan Moh. Toha No.77 Kelurahan Cigereleng, Kecamatan<br>Regol, Bandung, Jawa Barat 40113<br><br> EMAIL<br></p>
-		<b>csirt[at]inti.co.id</b><br><br>
-		<p style="color: #656565;">TELEPHONE</p>
-		<b>(022) 5201-501</b><br><br><br>
-		<button type="submit" class="btn btn-labeled" style="background-color: #150544; color:white; font-family: poppins;">
-			<a href="<?php echo base_url('Content/profil') ?>" style="color: white;">View Profile <span class="btn-label"><i class="fa fa-chevron-right"></i></span></button>
-	</div>
-</section>
+style="margin-left: 100px; font-size:smaller; margin-top:-108px; color:white; font-family:poppins;"
 <footer style="background:#150544; padding:10px; text-align:center; height:100px;">
 	<p style="margin-top: 28px; color:white; font-family:poppins;">Copyright &copy; 2022 INTI-CSIRT</p>
 </footer>
